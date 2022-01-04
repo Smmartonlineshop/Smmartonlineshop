@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Smmartonlineshop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Smmartonlineshop/Smmartonlineshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi
+Welcome to SM Mart.
+Thanks for contacting us. We've received your message and appreciate you reaching out to us. We are providing all type of Goods delivery at your door, which is available on cash on delivery.
+We deliver following type of goods:-
+Kids Fashion
+Women Fashion
+Men's Fashion
+Electronic Accessories
+Mobile Accessories
+Home & kitchen products
+Jewelry items
+Cosmatic products
+Sports and fitness items
+Baby care products
+Toy & Accessories
+Bags, Wallet & Luggage
